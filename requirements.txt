@@ -1,0 +1,5 @@
+openai
+langchain
+mysql-connector-python
+python-dotenv
+streamlit     # only if using UI

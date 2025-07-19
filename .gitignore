@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.env
+.env
+.env.*
+.venv/
+venv/
+build/
+dist/
+
+# Jupyter/IPython
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Log files
+*.log
+
+# MySQL Workbench temp or backup
+*.sql.bak
+*.sql~
+
+# Streamlit cache
+.streamlit/
+
+# Virtual environments
+*.egg-info/
